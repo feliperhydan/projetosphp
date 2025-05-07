@@ -9,16 +9,25 @@ Introdução a comandos Linux, conhecer e identificar sistemas operacionais linu
 ### 1ª UNIDADE:
 
 ●	Linha de comandos (Linux e Windows)
+
 ●	Básico de DevOps
+
 ●	Versionamento e Git
+
 ●	Básico sobre Testes de Software
+
 ●	Palestras
+
 ●	Práticas no Laboratório
 
 ### 2ª UNIDADE:
 
 ●	SEO (Search Engine Optimization)
+
 ●	Metodologias Ágeis (Especificamente Scrum e Kanban)
+
 ●	Plano de Carreira na área de TI
+
 ●	Palestras
+
 ●	Práticas no Laboratório
