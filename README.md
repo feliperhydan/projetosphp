@@ -1,4 +1,4 @@
-# Disciplina Tópicos Essenciais para Programação
+# Tópicos Essenciais para Programação
 
 ## Conceitos básicos
 
